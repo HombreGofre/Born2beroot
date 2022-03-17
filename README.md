@@ -1,2 +1,3 @@
 # Born2beroot
- Gestion y creación de una máquina virtual
+ 
+Creation and management of a virtual machine.
